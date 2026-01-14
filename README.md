@@ -18,5 +18,5 @@ Instead of daily streaks, it calculates streaks based on not missing your weekly
 ```json
 {
   "weekly_goal": 3,
-  "workouts": ["2026-01-08", "2026-01-10"]
+  "workouts": ["2026/01/08", "2026/01/10"]
 }
