@@ -1,5 +1,4 @@
 # Gym Consistency & Streak Tracker
-
 A Python CLI tool that tracks gym attendance and measures consistency using weekly goals (e.g., 3 days/week).
 Instead of daily streaks, it calculates streaks based on not missing your weekly target.
 
